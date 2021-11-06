@@ -7,7 +7,7 @@ import os
 import time
 
 os.system("clear")
-password ="f"
+password ="XrTeam"
 
 for i in range(3):
 	pwd = input("\033[93m> Masukan Password : ")
